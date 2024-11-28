@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "java",
+    "FUNCTIONS_EXTENSION_VERSION": "~4",
+    "AzureWebJobsDashboard": "",
+    "AzureConnectionString": "Endpoint=sb://assessment-tref.servicebus.windows.net/;SharedAccessKeyName=assessment-tref-send-listen-policy;SharedAccessKey=Cfu/AXJOGb021LJaRDqcWf8OMEgR+DOft+ASbNmifLo="
+  }
+}
