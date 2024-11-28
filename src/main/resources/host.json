@@ -3,8 +3,5 @@
   "extensionBundle": {
     "id": "Microsoft.Azure.Functions.ExtensionBundle",
     "version": "[4.*, 5.0.0)"
-  },
-  "Values": {
-    "AzureConnectionString": "Endpoint=sb://assessment-tref.servicebus.windows.net/;SharedAccessKeyName=assessment-tref-send-listen-policy;SharedAccessKey=Cfu/AXJOGb021LJaRDqcWf8OMEgR+DOft+ASbNmifLo="
   }
 }
